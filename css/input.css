@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+
+
+@theme{
+
+--font-raleway: "Raleway", sans-serif;
+--text-headingsize: 50px;
+  --text-blue: rgba(30, 167, 255, 1);
+    --color-regal-blue: linear-gradient(0deg, #2BEBFF, #2BEBFF),
+linear-gradient(96.64deg, #29E0FF 0.47%, #1FB0FF 99.65%) ;
+}
+
+ 
